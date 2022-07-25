@@ -702,12 +702,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>27674E7B-9BE0-4EE0-968B-DC24895EE1FD</string>
-		<key>EndDate</key>
-		<date>2022-07-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>9AF71E1A-B993-4CC2-AAAF-BE90EE83C682</string>
 		<key>EndDate</key>
 		<date>2022-07-29T15:59:59Z</date>
@@ -769,12 +763,6 @@
 	<dict>
 		<key>UUID</key>
 		<string>70A229AC-0A55-4350-A840-DDF166B3B598</string>
-		<key>EndDate</key>
-		<date>2022-07-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>F07A00BE-0232-449F-B3A6-671E4857A0F0</string>
 		<key>EndDate</key>
 		<date>2022-07-28T15:59:59Z</date>
 	</dict>
