@@ -852,14 +852,6 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>UUID</key>
-		<string>DB42BC0F-4619-4F64-A8B0-5BC3BA0687CD</string>
-		<key>EndDate</key>
-		<date>2022-10-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>UUID</key>
 		<string>9C4F5636-1475-402F-AC40-4F5BDFBB9B56</string>
 		<key>EndDate</key>
 		<date>2022-10-06T15:59:59Z</date>
