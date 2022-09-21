@@ -380,14 +380,6 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>UUID</key>
-		<string>1E7CEC65-30F3-4EC2-ACCC-A021829E61D8</string>
-		<key>EndDate</key>
-		<date>2022-10-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>UUID</key>
 		<string>EE8389B3-4FE8-48AD-8F70-64962515FAE0</string>
 		<key>EndDate</key>
 		<date>2022-10-06T15:59:59Z</date>
