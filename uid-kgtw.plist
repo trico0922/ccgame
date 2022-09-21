@@ -25,6 +25,14 @@
 	<string>IPA-start</string>
 	<string>賽季</string>
 	<dict>
+		<key>UUID</key>
+		<string>431C4521-080E-4AC3-81D8-D75AEC8AA936</string>
+		<key>EndDate</key>
+		<date>2022-12-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>UUID</key>
