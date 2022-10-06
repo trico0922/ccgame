@@ -25,6 +25,14 @@
 	<string>IPA-start</string>
 	<string>賽季</string>
 	<dict>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>08E15196-215E-4450-883B-785EB0EB403B</string>
+		<key>EndDate</key>
+		<date>2022-12-30T15:59:59Z</date>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>431C4521-080E-4AC3-81D8-D75AEC8AA936</string>
 		<key>EndDate</key>
@@ -533,14 +541,6 @@
 		<integer>1</integer>
 		<key>UUID</key>
 		<string>EE8389B3-4FE8-48AD-8F70-64962515FAE0</string>
-		<key>EndDate</key>
-		<date>2022-10-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>UUID</key>
-		<string>08E15196-215E-4450-883B-785EB0EB403B</string>
 		<key>EndDate</key>
 		<date>2022-10-06T15:59:59Z</date>
 	</dict>
