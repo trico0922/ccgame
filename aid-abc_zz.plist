@@ -21,7 +21,6 @@
 			<string>https://www.dropbox.com/s/nfh3emr3a2vumjs/uuids-zinjiaking.plist?dl=1</string>
 		</array>
 	</dict>
-	<string>月費</string>
 	<dict>
 		<key>UUID</key>
 		<string>B8635F5D-F193-4F81-A4A5-81A6F1C8BC58</string>
@@ -512,48 +511,6 @@
 		<key>AutoP</key>
         <integer>1</integer>
 		<key>LeaderBoard</key>
-        <integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A291A3E9-AAC9-4E45-97E9-F187451CE1A3</string>
-		<key>EndDate</key>
-		<date>2088-08-17T21:02:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>AutoP</key>
-        <integer>1</integer>
-		<key>LeaderBoard</key>
-        <integer>1</integer>
-		<key>AutoVictory</key>
-        <integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>DF344E49-42EE-4BB6-B0E7-F0EDA9B0D226</string>
-		<key>EndDate</key>
-		<date>2088-08-17T21:02:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>AutoP</key>
-        <integer>1</integer>
-		<key>LeaderBoard</key>
-        <integer>1</integer>
-		<key>AutoVictory</key>
-        <integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FCA06D86-E735-460A-B337-022E28A2F483</string>
-		<key>EndDate</key>
-		<date>2088-08-17T21:02:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>AutoP</key>
-        <integer>1</integer>
-		<key>LeaderBoard</key>
-        <integer>1</integer>
-		<key>AutoVictory</key>
         <integer>1</integer>
 	</dict>
 	<dict>
@@ -2732,7 +2689,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>D57B9302-ADB7-495F-B272-A47C5365F072</string>
+		<string>E3D54D23-A960-4EAA-87DC-1A6302EE5553</string>
 		<key>EndDate</key>
 		<date>2023-01-10T05:45:59Z</date>
 		<key>Extra</key>
