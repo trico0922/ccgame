@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CC</key>
+		<string>Restriction</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<integer>6</integer>
+				<key>limit</key>
+				<string>-1</string>
+			</dict>
+		</array>
+		<key>Servers</key>
+		<array>
+			<string>https://raw.githubusercontent.com/trico0922/ccgame/main/uid-kkgg886.plist</string>
+			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
+			<string>https://www.dropbox.com/s/nfh3emr3a2vumjs/uuids-zinjiaking.plist?dl=1</string>
+		</array>
+	</dict>
+	<string></string>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-07-25T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
