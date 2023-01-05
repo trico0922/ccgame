@@ -252,7 +252,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>UUID</key>
-		<string></string>
+		<string>94F76629-C9FC-42FE-AB0D-9892277160EC</string>
 		<key>EndDate</key>
 		<date>2023-05-13T23:23:59Z</date>
 	</dict>
@@ -293,14 +293,6 @@
 		<integer>1</integer>
 		<key>UUID</key>
 		<string>4D561477-B34D-46C2-8780-2649AC2F43D9</string>
-		<key>EndDate</key>
-		<date>2023-01-03T23:23:59Z</date>
-	</dict>
-	<dict>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>UUID</key>
-		<string>67446BC9-EE21-454D-A5DC-6FE95C1F3419</string>
 		<key>EndDate</key>
 		<date>2023-01-03T23:23:59Z</date>
 	</dict>
