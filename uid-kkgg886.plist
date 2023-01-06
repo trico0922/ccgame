@@ -404,14 +404,6 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>UUID</key>
-		<string>514D6D94-FBEB-44CE-9ED8-D51B08D9EC36</string>
-		<key>EndDate</key>
-		<date>2023-01-03T23:23:59Z</date>
-	</dict>
-	<dict>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>UUID</key>
 		<string>3A5958E9-4233-4C4B-8604-06C8B0B603B0</string>
 		<key>EndDate</key>
 		<date>2023-01-03T23:23:59Z</date>
